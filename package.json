@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-core",
   "dependencies": {
+  },
+  "peerDependencies": {
     "apisauce": "^1.0.2",
     "bedrock": "^1.16.0",
     "bedrock-account": "^2.1.1",
