@@ -20,9 +20,10 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-core",
   "dependencies": {
+    "apisauce": "^1.0.2",
+    "web-ledger-client": "^3.1.0"
   },
   "peerDependencies": {
-    "apisauce": "^1.0.2",
     "bedrock": "^1.16.0",
     "bedrock-account": "^2.1.1",
     "bedrock-did-client": "digitalbazaar/bedrock-did-client#testnet_v2",
@@ -52,8 +53,7 @@
     "bedrock-stats-http": "^1.1.0",
     "bedrock-stats-storage-redis": "^1.0.0",
     "bedrock-validation": "^4.0.0",
-    "bedrock-views": "^5.3.0",
-    "web-ledger-client": "^3.1.0"
+    "bedrock-views": "^5.3.0"
   },
   "devDependencies": {
     "eslint": "^5.15.1",
