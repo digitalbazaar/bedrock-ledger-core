@@ -9,8 +9,3 @@ coverage
 node_modules
 npm-debug.log
 reports
-cloud-auth.yml
-config.json
-config.yml
-instance-config.yml
-cloud-auth.yml
