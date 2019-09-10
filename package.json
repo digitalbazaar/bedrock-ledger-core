@@ -39,7 +39,7 @@
     "bedrock-ledger-context": "^12.0.0",
     "bedrock-ledger-node": "^8.0.0",
     "bedrock-ledger-storage-mongodb": "^2.4.0",
-    "bedrock-mongodb": "^5.4.0",
+    "bedrock-mongodb": "5.5.0 - 6",
     "bedrock-package-manager": "^1.0.0",
     "bedrock-passport": "^4.0.4",
     "bedrock-permission": "^2.4.3",
