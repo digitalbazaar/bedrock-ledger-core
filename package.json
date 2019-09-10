@@ -32,7 +32,6 @@
     "bedrock-identity": "^6.1.0",
     "bedrock-injector": "^1.0.0",
     "bedrock-jobs": "^3.0.0",
-    "bedrock-key": "^5.1.2",
     "bedrock-ledger-agent": "^2.1.0",
     "bedrock-ledger-consensus-continuity": "^3.4.1",
     "bedrock-ledger-consensus-continuity-es-most-recent-participants": "^2.0.0",
