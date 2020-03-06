@@ -1,5 +1,10 @@
 # bedrock-ledger-core ChangeLog
 
+### 1.2.0 - 2020-03-06
+
+### Changed
+- Use bedrock-https-agent.
+
 ## 1.1.0 - 2020-03-05
 
 ### Added
