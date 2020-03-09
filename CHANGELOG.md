@@ -1,6 +1,6 @@
 # bedrock-ledger-core ChangeLog
 
-### 1.30 -
+### 1.3.0 -
 
 ### Removed
 - Removed bedrock-ledger-consensus-continuity-es-most-recent-participants
