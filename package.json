@@ -26,7 +26,6 @@
   "peerDependencies": {
     "bedrock": "^1.16.0",
     "bedrock-account": "^2.1.1",
-    "bedrock-docs": "^3.0.0",
     "bedrock-express": "^2.0.8",
     "bedrock-https-agent": "^1.0.1",
     "bedrock-identity": "^6.1.0",
