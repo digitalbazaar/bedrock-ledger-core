@@ -1,5 +1,10 @@
 # bedrock-ledger-core ChangeLog
 
+### 1.3.1 - 2020-06-17
+
+### Changed
+- Remove unused `bedrock-docs` dep.
+
 ### 1.3.0 - 2020-03-09
 
 ### Removed
