@@ -1,5 +1,10 @@
 # bedrock-ledger-core ChangeLog
 
+### 1.3.2 - 2020-06-18
+
+### Changed
+- Update peer dependencies.
+
 ### 1.3.1 - 2020-06-17
 
 ### Changed
