@@ -31,7 +31,6 @@
     "bedrock-account": "^2.1.1",
     "bedrock-express": "^2.0.8",
     "bedrock-https-agent": "^1.0.1",
-    "bedrock-identity": "^6.1.0",
     "bedrock-injector": "^1.0.0",
     "bedrock-jobs": "^3.0.0",
     "bedrock-ledger-agent": "2.x - 3.x",
