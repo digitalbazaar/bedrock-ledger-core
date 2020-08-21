@@ -34,7 +34,7 @@
     "bedrock-injector": "^1.0.0",
     "bedrock-jobs": "^3.0.0",
     "bedrock-ledger-agent": "2.x - 4.x",
-    "bedrock-ledger-consensus-continuity": "7.0.0",
+    "bedrock-ledger-consensus-continuity": "^7.0.0",
     "bedrock-ledger-consensus-continuity-storage": "^3.0.0",
     "bedrock-ledger-context": "^15.0.0",
     "bedrock-ledger-node": "^11.0.0",
