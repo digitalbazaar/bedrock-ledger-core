@@ -27,7 +27,7 @@
     "web-ledger-client": "^3.1.0"
   },
   "peerDependencies": {
-    "bedrock": "^1.x - 3.x",
+    "bedrock": "1.x - 3.x",
     "bedrock-account": "^4.0.0",
     "bedrock-express": "2.x - 3.x",
     "bedrock-https-agent": "^1.1.0",
