@@ -26,6 +26,8 @@
     "web-ledger-client": "^3.1.0"
   },
   "peerDependencies": {
+    "@digitalbazaar/ed25519-signature-2020": "^3.0.0",
+    "@digitalbazaar/ed25519-verification-key-2020": "^3.1.0",
     "bedrock": "1.x - 3.x",
     "bedrock-account": "^4.0.0",
     "bedrock-express": "2.x - 3.x",
@@ -45,7 +47,8 @@
     "bedrock-redis": "^3.2.0",
     "bedrock-rest": "^3.0.0",
     "bedrock-server": "^2.2.1",
-    "bedrock-validation": "^4.0.0"
+    "bedrock-validation": "^4.0.0",
+    "jsonld-signatures": "^9.3.0"
   },
   "devDependencies": {
     "eslint": "^7.0.0",
