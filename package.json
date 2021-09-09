@@ -22,9 +22,6 @@
     "url": "https://github.com/digitalbazaar/bedrock-ledger-core/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-core",
-  "dependencies": {
-    "web-ledger-client": "^3.1.0"
-  },
   "peerDependencies": {
     "@digitalbazaar/ed25519-signature-2020": "^3.0.0",
     "@digitalbazaar/ed25519-verification-key-2020": "^3.1.0",
@@ -34,6 +31,7 @@
     "bedrock-https-agent": "^1.1.0",
     "bedrock-injector": "^1.0.0",
     "bedrock-jobs": "^3.0.0",
+    "bedrock-jsonld-document-loader": "^1.0.1",
     "bedrock-ledger-agent": "^4.0.0",
     "bedrock-ledger-consensus-continuity": "7.0.0",
     "bedrock-ledger-consensus-continuity-storage": "^3.0.0",
@@ -48,7 +46,8 @@
     "bedrock-rest": "^3.0.0",
     "bedrock-server": "^2.2.1",
     "bedrock-validation": "^4.0.0",
-    "jsonld-signatures": "^9.3.0"
+    "jsonld-signatures": "^9.3.0",
+    "web-ledger-client": "^3.1.0"
   },
   "devDependencies": {
     "eslint": "^7.0.0",
